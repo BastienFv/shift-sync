@@ -85,8 +85,4 @@ docker-compose up --build
  http://localhost:5173
 ```
 
-## Repository Mirror
-
-https://github.com/dodoll27/TimeManager
-
 ### Enjoy your time with the ShiftSync application !
